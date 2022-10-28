@@ -30,3 +30,8 @@ class TestHomePage(BaseClass):
     @pytest.fixture(params=HomePageData.getTestData("Testcase2"))
     def getData(self, request):
         return request.param
+
+
+    print("Hello_0")
+    print("Hello_1")
+    print("Hello_2")
