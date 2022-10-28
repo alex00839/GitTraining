@@ -48,3 +48,7 @@ class TestOne(BaseClass):
         assert "Success! Thank you!" in successText
 
         print("New Changes")
+        print("New Changes Develop")
+        print("New Changes Develop)))")
+        print("New Changes Develop{{{")
+        print("New Changes Develop///")
