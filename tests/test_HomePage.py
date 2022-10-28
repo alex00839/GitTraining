@@ -45,3 +45,7 @@ class TestHomePage(BaseClass):
     print("Hello_13 Develop")
     print("Hello_14 Develop")
     print("Hello_15 Develop")
+
+    print("Hello_13 Develop America")
+    print("Hello_14 Develop America")
+    print("Hello_15 Develop America")

@@ -52,3 +52,7 @@ class TestOne(BaseClass):
         print("New Changes Develop)))")
         print("New Changes Develop{{{")
         print("New Changes Develop///")
+        print("New Changes Develop American")
+        print("New Changes Develop American)))")
+        print("New Changes Develop American{{{")
+        print("New Changes Develop American///")
