@@ -1,0 +1,22 @@
+2022-10-26 16:59:49,706 : INFO : test_formSubmission : first name is Rahul
+2022-10-26 16:59:51,531 : INFO : test_formSubmission : first name is Anshika
+2022-10-26 16:59:51,531 : INFO : test_formSubmission : first name is Anshika
+2022-10-26 17:00:01,071 : INFO : test_e2e : Getting all the card titles
+2022-10-26 17:00:01,116 : INFO : test_e2e : iphone X
+$24.99
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+Add ★ ★ ★ ★ ☆
+2022-10-26 17:00:01,138 : INFO : test_e2e : Samsung Note 8
+$24.99
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+Add ★ ★ ★ ★ ☆
+2022-10-26 17:00:01,163 : INFO : test_e2e : Nokia Edge
+$24.99
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+Add ★ ★ ★ ★ ☆
+2022-10-26 17:00:01,184 : INFO : test_e2e : Blackberry
+$24.99
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+Add ★ ★ ★ ★ ☆
+2022-10-26 17:00:01,372 : INFO : test_e2e : Entering country name as ind
+2022-10-26 21:10:37,805 : INFO : test_formSubmission : first name is Rahul
